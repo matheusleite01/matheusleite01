@@ -5,7 +5,7 @@
  
   * 🌍  I'm based in São Paulo, Brazil
   * ✉️  You can contact me at [de.leite2014@gmail.com](mailto:de.leite2014@gmail.com)
-  * 🧠  I'm learning React JS
+ 
 
 
 
